@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Test model",
+    "owner": "Vinay",
+    "description": "Nothing much"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Test diagram",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
